@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background: white;
+}
+body{
+    background: skyblue;
+    background-position: left;
+}
+
+h1{
+    text-align: center;
+    top: 30px;
+    color: darkblue;
+}
+label{
+    margin-right: 20px;
+    color: darkblue;
+}
+input{
+    margin-left: 20px;
+    color: darkblue;
+    text-align: center;
+}
